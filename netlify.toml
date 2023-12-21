@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build:web"
+  publish = "web-build-folder"  # Adjust the build output folder
